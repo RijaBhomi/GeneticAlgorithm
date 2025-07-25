@@ -4,7 +4,7 @@ This repository contains a Python-based Jupyter Notebook that implements a Genet
 
 ## Purpose of the Code
 
-The `Copy_of_GeneticAlgo (1).ipynb` notebook serves the following purposes:
+The `GeneticAlgo.ipynb` notebook serves the following purposes:
 
 * **Smart Grid Optimization:** It models a simplified smart grid scenario with multiple energy sources, nodes (demand points), and time slots (e.g., a 24-hour cycle).
 * **Genetic Algorithm Implementation:** It demonstrates how a Genetic Algorithm can be applied to solve the complex energy allocation problem, considering factors like source capacities, demand, energy costs, and transmission losses.
@@ -19,10 +19,9 @@ To run this code, you will need Python 3 and the following libraries.
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/RijaBhomi/GeneticAlgorithm.git)
     cd your-repo-name
     ```
-    *(Replace `your-username/your-repo-name` with the actual path to your repository.)*
 
 2.  **Install the necessary Python packages:**
     ```bash
