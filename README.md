@@ -19,7 +19,7 @@ To run this code, you will need Python 3 and the following libraries.
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/RijaBhomi/GeneticAlgorithm.git)
+    git clone [https://github.com/RijaBhomi/GeneticAlgorithm.git](https://github.com/RijaBhomi/GeneticAlgorithm.git)
     cd your-repo-name
     ```
 
